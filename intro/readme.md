@@ -11,6 +11,7 @@
 
 ### vSphere client
 - Allows administrators to connect to ESXi servers and access or manage virtual machines
+- The vSphere client is used from client machine to connect to ESXi server and do management tasks
 
 ### Reference
 - [Difference between vSphere, ESXi and vCenter](http://www.mustbegeek.com/difference-between-vsphere-esxi-and-vcenter/)
