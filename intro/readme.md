@@ -20,7 +20,7 @@
 - vSphere client is used to access vCenter Server and ultimately manage ESXi servers.
 - vCenter server is compulsory for enterprises to have enterprise features like vMotion, VMware High Availability, VMware Update Manager and VMware Distributed Resource Scheduler (DRS)
 
-![](../figures/figures/components.png)
+![](../figures/components.png)
 
 ### Reference
 - [Difference between vSphere, ESXi and vCenter](http://www.mustbegeek.com/difference-between-vsphere-esxi-and-vcenter/)
