@@ -7,3 +7,4 @@
 
 ### Procedure
 - [Install ESXi](./file/esxi.md)
+- [Install vsphere client](./file/vsphere_client.md)
