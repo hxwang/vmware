@@ -12,5 +12,6 @@ In specific, we would like to measure the migration latency of the following two
 - End: 10/27/2015
 
 ### Memo
+- [Intro](./intro)
 - [Environment setup](./setup)
 - [Migration](./migration)
